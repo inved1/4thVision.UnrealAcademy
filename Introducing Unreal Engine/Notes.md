@@ -12,3 +12,7 @@
   - Select the Unlit View Mode
 - You want to easily select multiple Actors within your scene. Where are you able to do that in the editor?
   - World Outliner
+
+# Introducing Unreal Engine Quiz 3
+- You want to override the Game Mode so it applies to your entire project. Where can you do this?
+  - Project Settings
